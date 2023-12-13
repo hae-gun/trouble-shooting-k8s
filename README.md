@@ -1,4 +1,4 @@
-# K8S Trouble-Shooting
+# k8s Trouble-Shooting
 
 ## k8s cmd 키워드 정리
 
