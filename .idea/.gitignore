@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/Users/choehyegeun/Desktop/inflearn/trouble-shooting-k8s/.idea/dbnavigator.xml
+/Users/choehyegeun/Desktop/inflearn/trouble-shooting-k8s/.idea/jpa-buddy.xml
+/Users/choehyegeun/Desktop/inflearn/trouble-shooting-k8s/.idea/misc.xml
+/Users/choehyegeun/Desktop/inflearn/trouble-shooting-k8s/.idea/modules.xml
+/Users/choehyegeun/Desktop/inflearn/trouble-shooting-k8s/.idea/trouble-shooting-k8s.iml
+/Users/choehyegeun/Desktop/inflearn/trouble-shooting-k8s/.idea/vcs.xml
