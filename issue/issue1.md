@@ -178,7 +178,7 @@ SHELL
 ```
  
 * 원인파악
-  * 계속되는 원인 파악중 스크립트에 존재하는 calico 관련 패키지가 제대로 설치되지 않음을 확인함.
+  * 계속되는 원인 파악중 스크립트에 존재하는 calico 관련 패키지가 pod 목록에서 존재하지 않는것을 발견함.
   * calico 는 CNI (Container Network Interface) 중 하나로 컨테이너간 네트워킹을 제어하는 어플리케이션임.
   * tigera-operator 는 calico 의 설치 라이프사이클을 관리해주는 패키지.
   * calico 가 설치가 안되어있으니 tigera-operator 는 설치되지 않은 calico를 관리하고자 하여 에러 발생.
