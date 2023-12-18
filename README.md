@@ -20,7 +20,7 @@ $ kubelet describe pod <name> -n <namesapce>
 # 이슈사항
 
 1. Vagrant 를 이용하여 설치후 전체 Pods가 제대로 실행되지 않던 현상. [link](https://github.com/hae-gun/trouble-shooting-k8s/blob/main/issue/issue1.md)
-
+2. Grafana/Prometheus 설정후 Grafana 에 모든 정보가 NaN 으로 나타난 현상. [link](https://github.com/hae-gun/trouble-shooting-k8s/blob/main/issue/issue2.md)
 
 # 복습현황
 ---
